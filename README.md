@@ -1,6 +1,5 @@
-<a href="#"><img width="70%" height="50%" align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/></a>
-<!-- https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif
-https://i.imgur.com/iXuL1HG.png" height="175px -->
+<a href="#"><img width="90%" height="90%" align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"></a>
+
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Vipul Vishwakarma</h1>
 <h3 align="center">I'm a passionate Software Developer Ethusiast from India.</h3>
@@ -10,9 +9,7 @@ https://i.imgur.com/iXuL1HG.png" height="175px -->
 
 - 🔭 I’m currently building  **Rapiddata.io**
 
-- 🌱 My are of interest is **Software Engineering**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🌱 My area of interest is **Software Engineering**
    
 - 📫 How to reach me **vipul@rapiddata.io**
 
@@ -97,7 +94,7 @@ https://i.imgur.com/iXuL1HG.png" height="175px -->
 <br/>
 <br/>
 
-[![Vipul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vipulv25&theme=tokyo-night)](https://github.com/vipulv25/github-readme-activity-graph)
+[![Vipul's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vipulv25&theme=tokyo-night)](https://github.com/vipulv25/github-readme-activity-graph)
 <br/>
 <br/>
 
