@@ -8,12 +8,12 @@ https://i.imgur.com/iXuL1HG.png" height="175px -->
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **MERN Projects**
+- 🔭 I’m currently building  **Rapiddata.io**
 
-- 🌱 I’m currently learning **Full Stack development and Data Structures and Algorithms**
+- 🌱 My are of interest is **Software Engineering**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 
+   
 - 📫 How to reach me **vipul@rapiddata.io**
 
 
